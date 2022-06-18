@@ -15,7 +15,7 @@ make sure node and npm are installed in your machine.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 
 ## features
 - User List View
@@ -24,3 +24,9 @@ The page will reload when you make changes.\
 - Add Group / Edit Group / Delete Group
 - Offline mode
 - Search on user and group list view
+
+
+## Tools and libraries
+- React / Typescript
+- Tailwind css
+- wouter - for routing
